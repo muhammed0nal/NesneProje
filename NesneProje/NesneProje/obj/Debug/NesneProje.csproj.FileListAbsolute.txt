@@ -1,0 +1,7 @@
+C:\Users\onalm\Desktop\arduinojs\NesneProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\onalm\Desktop\arduinojs\NesneProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\onalm\Desktop\arduinojs\NesneProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\onalm\Desktop\arduinojs\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.AssemblyReference.cache
+C:\Users\onalm\Desktop\arduinojs\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\onalm\Desktop\arduinojs\NesneProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\onalm\Desktop\arduinojs\NesneProje\NesneProje\obj\Debug\NesneProje.pdb
