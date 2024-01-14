@@ -1,7 +1,7 @@
 # NesneProje
 Nesneye yönelik proglamlama projesi
 
-Muhammed Onal -211141028
+Muhammed Onal -211141028 <br>
 Ali Ozan - 211141035
 
 
